@@ -1,28 +1,28 @@
 [{
-		"title": "Optimism",
+		"title": "BGChain",
 		"links": [{
 				"text": "Home",
-				"url": "https://www.optimism.io/"
+				"url": "https://bglabs.ai/"
 			},
 			{
 				"text": "Governance",
-				"url": "https://app.optimism.io/announcement"
+				"url": "https://bglabs.ai/"
 			},
 			{
 				"text": "Bridge",
-				"url": "https://app.optimism.io/bridge/deposit"
+				"url": "https://bglabs.ai/"
 			},
 			{
 				"text": "Ecosystem",
-				"url": "https://www.optimism.io/apps/all"
+				"url": "https://bglabs.ai/"
 			},
 			{
 				"text": "Help center",
-				"url": "https://help.optimism.io/"
+				"url": "https://bglabs.ai/"
 			},
 			{
 				"text": "Feature request",
-				"url": "https://optimism.canny.io/feature-requests"
+				"url": "https://bglabs.ai/"
 			}
 		]
 	},
@@ -30,31 +30,31 @@
 		"title": "Developers",
 		"links": [{
 				"text": "Documentation",
-				"url": "https://community.optimism.io/"
+				"url": "https://bglabs.ai/"
 			},
 			{
 				"text": "Status",
-				"url": "https://status.optimism.io/"
+				"url": "https://bglabs.ai/"
 			},
 			{
 				"text": "Bug bounty",
-				"url": "https://immunefi.com/bounty/optimism/"
+				"url": "https://bglabs.ai/"
 			},
 			{
 				"text": "Dev blog",
-				"url": "https://blog.oplabs.co/"
+				"url": "https://bglabs.ai/"
 			},
 			{
 				"text": "Marketing support",
-				"url": "https://optimismfnd.typeform.com/optimism-mktg"
+				"url": "https://bglabs.ai/"
 			},
 			{
 				"text": "Get in touch",
-				"url": "https://forms.monday.com/forms/c867f3f357707ff1fb4af0d3d5080710?r=use1"
+				"url": "https://bglabs.ai/"
 			},
 			{
 				"text": "GitHub",
-				"url": "https://github.com/ethereum-optimism"
+				"url": "https://bglabs.ai/"
 			}
 		]
 	},
@@ -62,49 +62,34 @@
 		"title": "Community",
 		"links": [{
 				"text": "Discord",
-				"url": "https://discord.com/invite/optimism"
+				"url": "https://bglabs.ai/"
 			},
 			{
 				"text": "Twitter",
-				"url": "https://twitter.com/optimismFND"
+				"url": "https://bglabs.ai/"
 			},
 			{
 				"text": "Twitch",
-				"url": "https://www.twitch.tv/optimismfnd"
+				"url": "https://bglabs.ai/"
 			},
 			{
 				"text": "Blog",
-				"url": "https://optimism.mirror.xyz/"
+				"url": "https://bglabs.ai/"
 			},
 			{
 				"text": "Events",
-				"url": "https://calendar.google.com/calendar/u/0/embed?src=c_4hui70itm089e7t8q50heh1kno@group.calendar.google.com&ctz=America/Denver"
+				"url": "https://bglabs.ai/"
 			},
 			{
 				"text": "Newsletter",
-				"url": "https://optimism.us6.list-manage.com/subscribe/post?u=9727fa8bec4011400e57cafcb&id=ca91042234&f_id=002a19e3f0"
+				"url": "https://bglabs.ai/"
 			}
 		]
 	},
   {
     "title": "Partners",
     "links": [
-      {
-        "text": "MetaSuites",
-        "url": "https://blocksec.com/metasuites"
-      },
-      {
-        "text": "Sourcify",
-        "url": "https://sourcify.dev/"
-      },
-      {
-        "text": "DRPC",
-        "url": "https://drpc.org?ref=559183"
-      },
-      {
-        "text": "BlockSec",
-        "url": "https://blocksec.com/"
-      }
+       
     ]
   }
 ]
