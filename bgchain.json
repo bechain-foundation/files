@@ -3,7 +3,7 @@
 		"links": [{
 				"text": "Home",
 				"url": "https://bglabs.ai/"
-			},
+			}
 			 
 		]
 	},
@@ -17,9 +17,9 @@
 			{
 				"text": "Twitter",
 				"url": "https://x.com/BGLabs_"
-			},
+			}
 			 
 		]
-	},
+	}
  
 ]
