@@ -1,27 +1,7 @@
 [{
-		"title": "BGChain",
+		"title": "BG Chain",
 		"links": [{
 				"text": "Home",
-				"url": "https://bglabs.ai/"
-			},
-			{
-				"text": "Governance",
-				"url": "https://bglabs.ai/"
-			},
-			{
-				"text": "Bridge",
-				"url": "https://bglabs.ai/"
-			},
-			{
-				"text": "Ecosystem",
-				"url": "https://bglabs.ai/"
-			},
-			{
-				"text": "Help center",
-				"url": "https://bglabs.ai/"
-			},
-			{
-				"text": "Feature request",
 				"url": "https://bglabs.ai/"
 			}
 		]
@@ -62,27 +42,11 @@
 		"title": "Community",
 		"links": [{
 				"text": "Discord",
-				"url": "https://bglabs.ai/"
+				"url": "https://discord.com/invite/Scg8MqDt4c"
 			},
 			{
 				"text": "Twitter",
-				"url": "https://bglabs.ai/"
-			},
-			{
-				"text": "Twitch",
-				"url": "https://bglabs.ai/"
-			},
-			{
-				"text": "Blog",
-				"url": "https://bglabs.ai/"
-			},
-			{
-				"text": "Events",
-				"url": "https://bglabs.ai/"
-			},
-			{
-				"text": "Newsletter",
-				"url": "https://bglabs.ai/"
+				"url": "https://x.com/BGLabs_"
 			}
 		]
 	},
