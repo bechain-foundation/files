@@ -26,70 +26,19 @@
 			}
 		]
 	},
-	{
-		"title": "Developers",
-		"links": [{
-				"text": "Documentation",
-				"url": "https://bglabs.ai/"
-			},
-			{
-				"text": "Status",
-				"url": "https://bglabs.ai/"
-			},
-			{
-				"text": "Bug bounty",
-				"url": "https://bglabs.ai/"
-			},
-			{
-				"text": "Dev blog",
-				"url": "https://bglabs.ai/"
-			},
-			{
-				"text": "Marketing support",
-				"url": "https://bglabs.ai/"
-			},
-			{
-				"text": "Get in touch",
-				"url": "https://bglabs.ai/"
-			},
-			{
-				"text": "GitHub",
-				"url": "https://bglabs.ai/"
-			}
-		]
-	},
+	 
 	{
 		"title": "Community",
 		"links": [{
 				"text": "Discord",
-				"url": "https://bglabs.ai/"
+				"url": "https://discord.com/invite/Scg8MqDt4c"
 			},
 			{
 				"text": "Twitter",
-				"url": "https://bglabs.ai/"
+				"url": "https://x.com/BGLabs_"
 			},
-			{
-				"text": "Twitch",
-				"url": "https://bglabs.ai/"
-			},
-			{
-				"text": "Blog",
-				"url": "https://bglabs.ai/"
-			},
-			{
-				"text": "Events",
-				"url": "https://bglabs.ai/"
-			},
-			{
-				"text": "Newsletter",
-				"url": "https://bglabs.ai/"
-			}
+			 
 		]
 	},
-  {
-    "title": "Partners",
-    "links": [
-       
-    ]
-  }
+ 
 ]
