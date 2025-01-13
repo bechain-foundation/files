@@ -7,15 +7,6 @@
 		]
 	},
 	{
-		"title": "Developers",
-		"links": [{
-				"text": "Documentation",
-				"url": "https://bglabs.ai/"
-			}
-			 
-		]
-	},
-	{
 		"title": "Community",
 		"links": [{
 				"text": "Discord",
