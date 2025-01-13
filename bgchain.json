@@ -1,23 +1,95 @@
 [{
-        "title": "BG Chain",
-        "links": [{
-                "text": "Home",
-                "url": "https://bglabs.ai/"
-            }
-
-        ]
-    },
-    {
-        "title": "Community",
-        "links": [{
-                "text": "Discord",
-                "url": "https://discord.com/invite/Scg8MqDt4c"
-            }, {
-                "text": "Twitter",
-                "url": "https://x.com/BGLabs_"
-            }
-
-        ]
-    }
-
+		"title": "BGChain",
+		"links": [{
+				"text": "Home",
+				"url": "https://bglabs.ai/"
+			},
+			{
+				"text": "Governance",
+				"url": "https://bglabs.ai/"
+			},
+			{
+				"text": "Bridge",
+				"url": "https://bglabs.ai/"
+			},
+			{
+				"text": "Ecosystem",
+				"url": "https://bglabs.ai/"
+			},
+			{
+				"text": "Help center",
+				"url": "https://bglabs.ai/"
+			},
+			{
+				"text": "Feature request",
+				"url": "https://bglabs.ai/"
+			}
+		]
+	},
+	{
+		"title": "Developers",
+		"links": [{
+				"text": "Documentation",
+				"url": "https://bglabs.ai/"
+			},
+			{
+				"text": "Status",
+				"url": "https://bglabs.ai/"
+			},
+			{
+				"text": "Bug bounty",
+				"url": "https://bglabs.ai/"
+			},
+			{
+				"text": "Dev blog",
+				"url": "https://bglabs.ai/"
+			},
+			{
+				"text": "Marketing support",
+				"url": "https://bglabs.ai/"
+			},
+			{
+				"text": "Get in touch",
+				"url": "https://bglabs.ai/"
+			},
+			{
+				"text": "GitHub",
+				"url": "https://bglabs.ai/"
+			}
+		]
+	},
+	{
+		"title": "Community",
+		"links": [{
+				"text": "Discord",
+				"url": "https://bglabs.ai/"
+			},
+			{
+				"text": "Twitter",
+				"url": "https://bglabs.ai/"
+			},
+			{
+				"text": "Twitch",
+				"url": "https://bglabs.ai/"
+			},
+			{
+				"text": "Blog",
+				"url": "https://bglabs.ai/"
+			},
+			{
+				"text": "Events",
+				"url": "https://bglabs.ai/"
+			},
+			{
+				"text": "Newsletter",
+				"url": "https://bglabs.ai/"
+			}
+		]
+	},
+  {
+    "title": "Partners",
+    "links": [
+       
+    ]
+  }
 ]
