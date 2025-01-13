@@ -1,25 +1,23 @@
 [{
-		"title": "BG Chain",
-		"links": [{
-				"text": "Home",
-				"url": "https://bglabs.ai/"
-			}
-			 
-		]
-	},
-	 
-	{
-		"title": "Community",
-		"links": [{
-				"text": "Discord",
-				"url": "https://discord.com/invite/Scg8MqDt4c"
-			},
-			{
-				"text": "Twitter",
-				"url": "https://x.com/BGLabs_"
-			}
-			 
-		]
-	}
- 
+        "title": "BG Chain",
+        "links": [{
+                "text": "Home",
+                "url": "https://bglabs.ai/"
+            }
+
+        ]
+    },
+    {
+        "title": "Community",
+        "links": [{
+                "text": "Discord",
+                "url": "https://discord.com/invite/Scg8MqDt4c"
+            }, {
+                "text": "Twitter",
+                "url": "https://x.com/BGLabs_"
+            }
+
+        ]
+    }
+
 ]
