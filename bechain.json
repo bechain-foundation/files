@@ -1,0 +1,21 @@
+[{
+		"title": "Be Chain",
+		"links": [{
+				"text": "Home",
+				"url": "https://bebe.global"
+			}
+		]
+	},
+	{
+		"title": "Community",
+		"links": [{
+				"text": "Discord",
+				"url": "https://discord.com/invite/Scg8MqDt4c"
+			},
+			{
+				"text": "Twitter",
+				"url": "https://x.com/BGLabs_"
+			}
+		]
+	}
+]
