@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 95 24" width="95" height="24">
+	<title>BE Chain Logo Final-02 (2)</title>
+	<defs>
+		<image  width="27" height="22" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAWCAYAAAAxSueLAAAAAXNSR0IB2cksfwAAA+9JREFUeJytll2ME1UUx+85d9puP7ad6YIkEMU1AiZ8KRCCmGzUZA1gSBCVh1UTSBAefDDgalx5cGPwK2aD8sIDPiBR2LjJGo27BEQNSdeoidFFpX6g6yausKDu0s50OtNOx/9tByFGajd2kl/vnd7b+zvn3tNpSczk8uw4Xt8Gn4HnhYx6M/k4NTrROJ+XOUMe8jR6GLdl8Ahk/U2XrfjgIuXatD35tOy1klIW4yw8Tbzqy+iupss6D5/blGuTb1m6jJlJKdAKO067zXRiX1Nl23t+ud3UechKScOEBJkJM8WjuO8cX6JfbJps78bsDZahfWwl+SYzVcsI/cm8IVcXkjLhttCjbgsfzK5Jn/lfsiM3fpk0DS0DydJCioWSIbNCXpfr7Vb+Hpkdt1K8HK2wE/yVE6Ojboj3jy/VizOSnWj7lFyW/cWQ3GLHkQ1kWLQC0dZLbfLNYoL32Qn5uKVzbVtrGQtke64UpsfOrjDeaVg2omd2Q9bnMgu0wgmxsGM8VQ7RU6UwD3+3KjoJ4So3Sl1OlDfarbJdyVSW2AGvHBJPnL5z1mv/KTsTP2m4rI1BlFIil5SwJi2GQYwnnCj1uxEeLIfpi2/XxhIIorscoW6INCWE2MJSt2U2z/mxrmwsenxdmfjYZQFkHto87nWXpCjh/WJEikKcPZzVaRTIARTKexMLIs/h+7cDlSoKqWpQLw1vn9tTV3Yh/P4DkA1URVi4RGyi32FJbaEneFeZaSWkmiu5mmmhVcHTyOZXM60tMWvnq4rm0OFn52+rK8tp7y7whfihFMhUNh7RHvL9Fyda4tIXtNgj3lImuh9BLVJSG5ni3MRlkQIBPN138OaX68psHiTp+4Me86arzqxQEdQLDswvrjNPGSOiQjQLQdxTIX4Q0vWYE7GjVYkqkvNT12nLewcXXagrU5cvBuYiuwwyaFdnpLJ0qNpOI6MhZPszFm9BMEZZ0LG8FhpFfxukXZg/rxCTmx8au3Xon+te80sN4Ww0A5B2QEpXtvXvwqm2pdpWqyCOINO+aS3ibfh99fi/rVn3cQWhGr8L7IT0PkhDVwonkAOHZKYotaPIvn/NpY4/r7Vew79nEBtoliH66yHUICs4zL+hWrPznA1/NLJGw7JmXKhof3bQx06JKZC+anyaiErVQd+PoVF/Cyqi9kttAzWmq3miFvgcMBmspXbCAaFgPK5kZ9FRD85bwCdgK/gwkPVB9hPmrEX/SfA5yIE7wCnwDdgP7g7G24Eqjr3gIzAKloFXwGIlU/s9DBaCk2AHGAlkPZBlMacT/Z1BMHlwL/gaZIX64yNEN3gBvA7UU+OZQKjmvAFWgq6/ACt3mHoJmcr/AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="32" y="1"/>
+</svg>
